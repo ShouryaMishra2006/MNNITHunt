@@ -27,7 +27,6 @@ const Accordion = () => {
             openItem === 1 ? "show" : ""
           }`}
           aria-labelledby="flush-headingOne"
-          data-bs-parent="#accordionFlushExample"
         >
           <div className="accordion-body">
             Contact Shourya Mishra 2nd Year CSE
